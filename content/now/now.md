@@ -20,7 +20,7 @@ eleventyNavigation:
 ### Doing
 
 - I put the [The City We Became](https://en.wikipedia.org/wiki/The_City_We_Became) aside. I was struggling with the tone and, frankly, the story. It didn't grab me and I had to stop struggling.
-- I've picked back up Octavia Butler's [The Parable of the Talents(https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) which I had been meaning to read for years. It's dark but inviting and so human.
+- I've picked back up Octavia Butler's [The Parable of the Talents](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) which I had been meaning to read for years. It's dark but inviting and so human.
 - I'm so absorbed in Meg Baird's record [Furling](https://megbaird.bandcamp.com/album/furling). It's the great folk rock album of the year.
 
 
