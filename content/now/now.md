@@ -10,7 +10,7 @@ eleventyNavigation:
 
 - The last week has been really hectic! Good, but hectic. Practicing with new bands (Outro and All Feels) to get ready for a show (Outro Friday night) and recording session (All Feels Saturday and Sunday).
 - The Outro show was so great. All of our practicing paid off and we sounded tight and energetic, a lot of people showed up, I had family come, and the other bands were excellent. And all around great night.
-- The All Feels [recording session](/allfeels) went really, really well.
+- The All Feels [recording session](/blog/allfeels) went really, really well.
 
 ### Big picture
 
