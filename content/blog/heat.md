@@ -8,7 +8,7 @@ tags:
 
 I tested positive for Covid a few days ago. Thankfully it's a *very* mild case, basically a middle-of-the-road cold. I have all my energy and my mind might be a slight bit more cloudy than usual (hard to tell) but that's about it. The hardest and most frustrating part is that we have *five people* in this family and I need to stay away from all of them, which means long stretches of time in my room watching stuff on my laptop, which is definitely not typical for me. I've watched some random shit.
 
-I watched the Netflix series [MH370: The Plane that Disappeared](https://www.netflix.com/title/81307163), about the disappearanced of a Malaysian Boing 777 a decade ago. I've since learned that Malaysians are deeply unhappy with the airtime the series gives to conspiracy theories as well as its attitude toward families of the passengers. I'm going to dig in and learn more.
+I watched the Netflix series [MH370: The Plane that Disappeared](https://www.netflix.com/title/81307163), about the disappearance of a Malaysian Boeing 777 a decade ago. I've since learned that Malaysians are deeply unhappy with the airtime the series gives to conspiracy theories as well as its attitude toward families of the passengers. I'm going to dig in and learn more.
 
 Then, I watched Michael Mann's *Heat*. It came out in 1995, when I was a freshman in college and wasn't watching a lot of movies in the theater, and I've never seen it.
 
