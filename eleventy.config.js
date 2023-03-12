@@ -62,8 +62,8 @@ module.exports = function(eleventyConfig) {
 		return Math.min.apply(null, numbers);
 	});
 
-// Copy `img/favicon/` to `_site/`
-    eleventyConfig.addPassthroughCopy({ "img/favicon" : "/" });
+// Copy `public/img/favicon/` to `_site/`
+    eleventyConfig.addPassthroughCopy({ "/public/img/favicon" : "/" });
 
 	// Return all the tags used in a collection
 	eleventyConfig.addFilter("getAllTags", collection => {
