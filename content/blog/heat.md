@@ -1,5 +1,5 @@
 ---
-title: Sick Bed Movie Review: Heat
+title: Sick Bed Movie Review - Heat
 description: 
 date: 2023-03-12
 tags:
